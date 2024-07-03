@@ -1,2 +1,1 @@
 # Poll
-# Poll
